@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">COEN 268</string>
+    <string-array name="Musicians">
+        <item> Lamb of God </item>
+        <item> Fossils </item>
+        <item> Aurthohin </item>
+        <item> Tool </item>
+        <item> Porcupine Tree </item>
+        <item> Dream Theater </item>
+        <item> Thaikkudam Bridge </item>
+        <item> Ne Obliviscaris </item>
+        <item> Pink Floyd </item>
+        <item> Trivium </item>
+        <item> Metallica </item>
+    </string-array>
+    <string-array name="description">
+        <item> Genere: Groove, Industrial Metal </item>
+        <item> Genere: Rock, Alternate </item>
+        <item> Genere: Rock, Metal, Progressive </item>
+        <item> Genere: Rock, Progressive </item>
+        <item> Genere: Progressive Rock </item>
+        <item> Genere: Progressive Metal, Technical </item>
+        <item> Genere: Multi Genere, Rock, Metal </item>
+        <item> Genere: Progressive Rock </item>
+        <item> Genere: Progressive Metal, Technical </item>
+        <item> Genere: Heavy Metal </item>
+        <item> Genere: Heavy Metal </item>
+    </string-array>
+    <string name="title_activity_web_view">WebView</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
